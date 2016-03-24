@@ -9,7 +9,7 @@ usapyon2.exeを実行する際には、Aperyの「大樹の枝バージョン」
 
 Usapyon2-Slaveの中のbinディレクトリにbin.zipを置きましたので、そちらを解凍してusapyon2.exeと同じディレクトリに置けばＯＫです。
 
-https://github.com/YasuhiroIke/Usapyon2-Slave/tree/master/bin
+http://usapyon.game.coocan.jp/usapyon2/bin.zip
 を参照して下さい。
 
 「なのはmini」の作者、川端一之様、「Apery」の作者、平岡拓也様、 「StockFish」の作者、Tord Romstad様、Marco Costalba様, Joona Kiiski様,Gary Linscott様に深く感謝をしております。
