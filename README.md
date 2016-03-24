@@ -7,7 +7,9 @@
 
 usapyon2.exeを実行する際には、Aperyの「大樹の枝バージョン」のxxx_synthesized.binを同じディレクトリに置いておく必要があります。
 
+<strike>
 Usapyon2-Slaveの中のbinディレクトリにbin.zipを置きましたので、そちらを解凍してusapyon2.exeと同じディレクトリに置けばＯＫです。
+</strike>
 
 http://usapyon.game.coocan.jp/usapyon2/bin.zip
 を参照して下さい。
