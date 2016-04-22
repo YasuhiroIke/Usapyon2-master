@@ -4,6 +4,10 @@
 
 元にしているソフトは基本的にありません。
 
+Usapyon2-Slaveがないと、マスター側には探索部分が全くないので、動きません。
+
+また、Usapyon2-Slaveは特殊なオプションを付けて実行する必要があります。
+
 「なのはmini」の作者、川端一之様、「Apery」の作者、平岡拓也様、 「StockFish」の作者、Tord Romstad様、Marco Costalba様, Joona Kiiski様,Gary Linscott様に深く感謝をしております。
 
 Usapyon2, a USI shogi(japanese-chess) playing engine
