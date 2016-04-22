@@ -2,31 +2,11 @@
 
 「うさぴょん２」ではクラスタ並列化構成を予定しているのですが、その内のマスター側部分になります。
 
-
-元にしているソースコードは、「なのはmini 0.2.2.1」になっております。 また、評価バイナリは、Aperyの「大樹の枝バージョン」を使用しております。
-
-usapyon2.exeを実行する際には、Aperyの「大樹の枝バージョン」のxxx_synthesized.binを同じディレクトリに置いておく必要があります。
-
-<strike>
-Usapyon2-Slaveの中のbinディレクトリにbin.zipを置きましたので、そちらを解凍してusapyon2.exeと同じディレクトリに置けばＯＫです。
-</strike>
-
-http://usapyon.game.coocan.jp/usapyon2/bin.zip
-を参照して下さい。
+元にしているソフトは基本的にありません。
 
 「なのはmini」の作者、川端一之様、「Apery」の作者、平岡拓也様、 「StockFish」の作者、Tord Romstad様、Marco Costalba様, Joona Kiiski様,Gary Linscott様に深く感謝をしております。
 
-Usapyon2, a USI shogi(japanese-chess) playing engine derived from
-
-nanoha-mini 0.2.2.1
-
-Stockfish, a UCI chess playing engine derived from Glaurung 2.1
-
-Copyright (C) 2004-2008 Tord Romstad (Glaurung author)
-
-Copyright (C) 2008-2015 Marco Costalba, Joona Kiiski, Tord Romstad (Stockfish author)
-
-Copyright (C) 2014-2016 Kazuyuki Kawabata (nanoha-mini author)
+Usapyon2, a USI shogi(japanese-chess) playing engine
 
 Copyright (C) 2015-2016 Yasuhiro Ike
 
