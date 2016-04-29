@@ -4,11 +4,15 @@
 
 <strike>元にしているソフトは基本的にありません。</strike>
 
-USI系の処理が色々と必要なので、結局「なのはmini」や「StockFish7」から持って来る事になりました…。
+<strike>USI系の処理が色々と必要なので、結局「なのはmini」や「StockFish7」から持って来る事になりました…。</strike>
 
-Usapyon2-Slaveがないと、マスター側には探索部分が全くないので、動きません。
+基本的には通信部だけを実装しています。USI-slaveとUSI-masterに分かれています。
 
-また、Usapyon2-Slaveは特殊なオプションを付けて実行する必要があります。
+USI-masterでは、３台構成を前提に諸々ハードコーディングしていますが、改造すれば台数とかもっと増やせるかも？
+
+Usapyon2-Slave（もしくはそれに類するモノ）がないと、探索部分がどこにもないので、動きません。
+
+<strike>また、Usapyon2-Slaveは特殊なオプションを付けて実行する必要があります。</strike>
 
 「なのはmini」の作者、川端一之様、「Apery」の作者、平岡拓也様、 「StockFish」の作者、Tord Romstad様、Marco Costalba様, Joona Kiiski様,Gary Linscott様に深く感謝をしております。
 
